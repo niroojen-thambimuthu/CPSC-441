@@ -1,0 +1,28 @@
+Routing algorithm input: SDP
+Destination is always Bilbo's home at node: B
+
+////////////////////////////////////////////////////////////////
+
+DWARF - HOME - HOPS - - DIST  - TIME - GOLD - TROLLS - PATH
+Balin	  L	    2	     800	 110	 13	     6	           L G B 
+Bifur	  F	    2	     200	  80	  5	     7	           F A B 
+Bofur	  U	    5	    1400	 220	 25	    17	     U P K L G B 
+Bombur	  M	    3	     900	 130	 14	    11	         M H C B 
+Dori	  D	    2	     700	  90	 13	     9	           D C B 
+Dwalin	  W	    5	    1300	 200	 34	    20	     W R Q L G B 
+Fili	  I	    3	     800	 180	 15	    10	         I H C B 
+Gloin	  G	    1	     500	  30	 12	     3	             G B 
+Kili	  K	    3	     900	 170	 15	     8	         K L G B 
+Nori	  O	    5	    1000	 240	 26	    20	     O N I H C B 
+Oin	  N	    4	     900	 220	 22	    18	       N I H C B 
+Ori	  R	    4	    1100	 170	 28	    18	       R Q L G B 
+Thorin	  H	    2	     600	 110	 10	     8	           H C B 
+
+AVERAGE			3.15	853.8	150.0	17.8	11.9
+
+////////////////////////////////////////////////////////////////
+
+
+
+
+

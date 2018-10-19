@@ -1,0 +1,14 @@
+SHORTEST_HOP_PATH (SHP)
+Destination is always Bilbo's home at node C
+
+Dwarf     Home   Hops  Dist   Time  Gold Trolls Path
+-----------------------------------------------------------------
+Balin      R       1    400    300     3    4    R  C 
+Dori       V       1    800    600     5    1    V  C 
+Dwalin     W       2    900    660     9    7    W  R  C 
+Gloin      M       4   1900   1400    31   10    M  T  W  R  C 
+Nori       E       1    300    120     8    2    E  C 
+Oin        T       3   1700   1160    19    8    T  W  R  C 
+Ori        S       1    600    360     4    4    S  C 
+-----------------------------------------------------------------
+AVERAGE         1.86    942.9  657.1  11.3  5.1
